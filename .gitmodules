@@ -1,0 +1,3 @@
+[submodule "openpgp-python"]
+	path = openpgp-python
+	url = https://github.com/diafygi/openpgp-python
